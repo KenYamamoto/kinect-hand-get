@@ -1,0 +1,222 @@
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.baml
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.g.cs
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\AppData\Local\Temporary Projects\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Desktop\Trackborn\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Desktop\Trackborn\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Desktop\Trackborn\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\bin\Release\Trackborn.exe
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\f08120\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf2\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf3 - コピー\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf4 - コピー\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Release\GenerateResource.write.1.tlog

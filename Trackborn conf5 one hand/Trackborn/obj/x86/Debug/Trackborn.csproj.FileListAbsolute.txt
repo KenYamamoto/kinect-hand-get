@@ -1,0 +1,43 @@
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf\Trackborn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.exe.config
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\MainWindow.baml
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\App.g.cs
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn_MarkupCompile.cache
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.g.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.Properties.Resources.resources
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.exe
+C:\Users\ma12115\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.exe.config
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Trackborn.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\MainWindow.baml
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\MainWindow.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\App.g.cs
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn_MarkupCompile.cache
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.g.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.Properties.Resources.resources
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.exe
+C:\Users\john\Dropbox\investigation's program\kinect\Trackborn conf5 one hand\Trackborn\obj\x86\Debug\Trackborn.pdb
